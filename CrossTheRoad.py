@@ -1,6 +1,4 @@
 import pygame
-from pygame.examples.scrap_clipboard import width
-from pygame.examples.video import backgrounds
 
 #ukuran ukuran layar
 SCREEN_WIDTH = 800
